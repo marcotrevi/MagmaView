@@ -1,0 +1,14 @@
+{
+"magmas":[
+	{
+	"magmaId": 1,
+	"n_elements": 1,
+	"properties": [1,3,4]
+	},
+	{
+	"magmaId": 2,
+	"n_elements": 2,
+	"properties": [1,2]
+	}
+]
+}
