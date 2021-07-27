@@ -3,11 +3,16 @@
 	{
 	"magmaId": 1,
 	"n_elements": 1,
+	"multiplication_table": [[1]],
 	"properties": [1,3,4]
 	},
 	{
 	"magmaId": 2,
 	"n_elements": 2,
+	"multiplication_table": [
+		[1,2],
+		[2,1]
+			],
 	"properties": [1,2]
 	}
 ]
